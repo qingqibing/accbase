@@ -11,5 +11,5 @@ require (
 	github.com/jinzhu/gorm v1.9.11
 	github.com/micro/go-micro v1.16.0
 	github.com/miekg/dns v1.1.22 // indirect
-	golang.org/x/net v0.0.0-20191028085509-fe3aa8a45271 // indirect
+	golang.org/x/net v0.7.0 // indirect
 )
