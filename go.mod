@@ -10,6 +10,6 @@ require (
 	github.com/golang/protobuf v1.3.2
 	github.com/jinzhu/gorm v1.9.11
 	github.com/micro/go-micro v1.16.0
-	github.com/miekg/dns v1.1.22 // indirect
+	github.com/miekg/dns v1.1.25 // indirect
 	golang.org/x/net v0.0.0-20191028085509-fe3aa8a45271 // indirect
 )
